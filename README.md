@@ -1,7 +1,6 @@
 <h1 align="center"> String Extractor </h1>
 Extract string of any .exe file.
- ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
- ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+
 
 
 
