@@ -1,0 +1,6 @@
+customtkinter
+tkinter
+pefile
+pillow
+datetime
+hashlib
